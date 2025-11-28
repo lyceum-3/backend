@@ -42,4 +42,4 @@ cd backend
 
 ## Ліцензія
 
-Проєкт розповсюджується під MIT License.
+Проєкт розповсюджується під **[MIT License](https://opensource.org/license/mit)**.
