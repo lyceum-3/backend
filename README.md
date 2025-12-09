@@ -8,7 +8,7 @@
 | ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)                | Основна мова програмування для логіки сервера, обробки запитів і бізнес-процесів.                              |
 | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat\&logo=spring\&logoColor=white)             | Використовується для створення REST API, управління залежностями, конфігурацій та безпечного доступу до даних. |
-| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat\&logo=postgresql\&logoColor=white) | База даних для зберігання користувачів, сесій, налаштувань та іншої структурованої інформації застосунку.      |
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat\&logo=postgresql\&logoColor=white) | База даних для зберігання користувачів, та іншої структурованої інформації застосунку.      |
 | ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat\&logo=gradle\&logoColor=white)             | Використовується для збірки проєкту, управління залежностями і запуску тестів у бекенд-застосунку.             |
 
 ## Встановлення
